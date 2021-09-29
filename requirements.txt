@@ -1,2 +1,4 @@
-requests=2.22.*
-python-dotenv=0.19.*
+requests==2.22.*
+python-dotenv==0.19.*
+django==3.2.7
+djangorestframework==3.12.*
